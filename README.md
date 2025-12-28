@@ -18,26 +18,30 @@
 
 ---
 
-## 📖 Overview
+<div align="center">
+  
+## Overview
 
-### Introduce
+### 📖 Introduce
 
-- **Project Name**: i-There
-- **Project Duration**: 2024.07 ~ 2024.12
-- **Project Management**: ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) 
-- **Tech Stack**: ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) 
+**Project Name**: i-There  
+**Project Duration**: 2024.07 ~ 2024.12  
+**Project Management**: ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Swit](https://img.shields.io/badge/Swit-3B5998?style=flat-square&logo=swit&logoColor=white)  
+**Tech Stack**: ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 
 ### 👥 Team
 
 | Position | Role | Name |
 |:--|:--|:--|
-| 🎯 Team Leader | PM & Lead Dev | <ins>Jaehyun Byun</ins> |
+| 🎯 Team Leader | PM & Lead Dev | Jaehyun Byun |
 | 📋 Planning | Level Designer & Game Planner | Yerim Lee |
 | 💻 Dev | Game Client Developer | Seyoung Park |
 | 💻 Dev | AI Model Dev & Medical Specialist | Wookhee Won |
 | 🎨 Art | UI/UX Designer | Chowon Jeong |
 | 🎨 Art | 3D Artist | Yeji Park |
 | 🎨 Art | Graphic Designer | Suyeon Lee |
+
+</div>
 
 
 
