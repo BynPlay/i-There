@@ -52,6 +52,11 @@
 
 ### Background
 
+<div align="center">
+  <img src="Images/Background_1.jpg" width="45%" />
+  <img src="Images/Background_2.jpg" width="45%" />
+</div>
+
 ### 설계
 
 ### 개발
