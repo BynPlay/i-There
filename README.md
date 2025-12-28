@@ -95,9 +95,9 @@ Inspired by The Three Little Pigs, kids collect clay, bake bricks, and build a h
 ## 🎮 How to Play
 
 <p align="center">
-  <img src="Images/Play_1.png" width="33%"/>
-  <img src="Images/Play_2.png" width="33%"/>
-  <img src="Images/Play_3.png" width="33%"/>
+  <img src="Images/Play_1.png" width="30%"/>
+  <img src="Images/Play_2.png" width="30%"/>
+  <img src="Images/Play_3.png" width="30%"/>
 </p>
 
 > ⚠️ This game was developed using [Metacore SDK](https://github.com/PnCSolution/MetacoreSDK) and runs exclusively on **METALENSE2** XR glasses.
