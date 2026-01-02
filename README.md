@@ -178,17 +178,16 @@ Collects multi-dimensional behavioral data (gaze, hand movement, head rotation) 
 
 ## 🎪 Live Demo & Award
 
+### 🏆 XR Device Content Makeathon — 2nd Place
+
 <div align="center">
   <img src="Images/DemoXR.avif" height="200"/>
   <img src="Images/DemoXR2.png" height="200"/>
   <img src="Images/DemoXR3.png" height="200"/>
-</div>
-
-<br>
-
-### 🏆 XR Device Content Makeathon — 2nd Place
 
 **November 2024 | Pangyo Metaverse Hub | Live Demo**
+
+</div>
 
 Presented at the XR Device Content Makeathon finals. During live demonstration where judges played hands-on, the full system—gameplay flow, real-time AI screening, and server integration—ran stable, proving the playable build's completeness. Awarded **2nd place with NIPA Director's Award and ₩5M prize**.
 
@@ -196,19 +195,17 @@ XR 디바이스 콘텐츠 메이커톤 본선 발표. 심사위원들이 직접 
 
 <br>
 
+### 🌟 ACM CHI 2025 Student Design Competition — Finalist (Top 4)
+
 <div align="center">
 <a href="https://www.youtube.com/watch?v=Viuxw1HnCkw">
   <img src="Images/LePetitCarePR.avif" height="200"/>
   <img src="https://img.youtube.com/vi/Viuxw1HnCkw/0.jpg" height="200"/>
   <img src="Images/CHIFinal.avif" height="200"/>
 </a>
-</div>
-
-<br>
-
-### 🌟 ACM CHI 2025 Student Design Competition — Finalist (Top 4)
 
 **May 2025 | Yokohama, Japan | International Presentation**
+</div>
 
 Building on i-There's technical foundation, we refined game design through expert interviews with a child development professor, psychiatry resident, and digital healthcare investor. Redesigned around *The Little Prince*—conversing with the Prince, caring for the Rose, and collecting flight fuel form a 3-stage screening sequence, followed by personalized behavioral missions on planets like the King's and Merchant's. The narrative fosters self-efficacy through bonding and self-discovery, while ADHD-optimized visuals (long-wavelength colors, intuitive graphics) reduce cognitive load. Documented as a design proposal and prototype, we competed against Georgia Tech, UCLA, UCL, and Shanghai Jiao Tong—selected as one of **four Finalist teams**.
 
@@ -216,7 +213,7 @@ i-There의 기술 기반 위에 아동학 교수, 정신과 전공의, 디지털
 
 <br>
 
-> 📄 **Publication**: [Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality](https://dl.acm.org/doi/10.1145/3706599.3720300)
+> 📄[Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality](https://dl.acm.org/doi/10.1145/3706599.3720300)
 
 
 
