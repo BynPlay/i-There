@@ -145,13 +145,13 @@ Collects multi-dimensional behavioral data (gaze, hand movement, head rotation) 
 │   XR Device      │    │          Unity Client Engine         │    │   AI Inference   │    │     Backend      │
 │   METALENSE2     │    │                                      │    │                  │    │                  │
 ├──────────────────┤    ├──────────────────────────────────────┤    ├──────────────────┤    ├──────────────────┤
-│ • Hand Tracking  │    │  ┌──────────┐ ┌──────────┐ ┌──────┐  │    │ Barracuda CNN    │    │ REST API Server  │
+│ • Gameplay Data  │    │  ┌──────────┐ ┌──────────┐ ┌──────┐  │    │ Barracuda CNN    │    │ REST API Server  │
 │ • Eye Tracking   │───→│  │Mission 1 │→│Mission 2 │→│ M3   │  │───→│                  │───→│                  │
 │ • IMU Sensor     │    │  │Clay      │ │Bricks    │ │Build │  │    │ DSM-5 18-Item    │    │ MariaDB          │
 │ • Voice Input    │    │  │Collection│ │Baking    │ │House │  │    │ Scoring (0~54)   │    │ User Profiles    │
-│ • Gameplay Data  │    │  └──────────┘ └──────────┘ └──┬───┘  │    │        │         │    │ Session Logs     │
-│   (Time/Errors)  │    │                               ↑      │    │        ↓         │    │ Long-term Track  │
-└──────────────────┘    │                Adaptive Difficulty   │    └──────────────────┘    └──────────────────┘
+│ • Hand Tracking  │    │  └──────────┘ └──────────┘ └──┬───┘  │    │        │         │    │ Session Logs     │
+└──────────────────┘    │                               ↑      │    │        ↓         │    │ Long-term Track  │
+                        │                Adaptive Difficulty   │    └──────────────────┘    └──────────────────┘
                         └──────────────────────────────────────┘
 ```
 
