@@ -79,20 +79,30 @@ ADHD는 전 세계 아동의 약 7.6%에게 영향을 미치며, 조기 진단�
 
 <br>
 
-### Game Design & Art and Visual
-
-  <img src="Images/Background_3.jpg" width="45%" />
-  <img src="Images/Background_4.jpg" width="45%" />
+### Game Design & Art
 
 </div>
 
-<br>
+<p align="center">
+  <img src="Images/Background_3.jpg" width="45%" />
+  <img src="Images/Background_4.jpg" width="45%" />
+</p>
 
-Inspired by The Three Little Pigs, kids collect clay, bake bricks, and build a house with adorable pig friends. Each mission—gathering materials in order, watching the oven, stacking bricks by rules—naturally trains sequential memory, sustained attention, and rule execution. Friendly pig characters guide with voice prompts, encourage on mistakes, and celebrate clears with 3D effects. Pastel colors, rounded characters, and a storybook world make it feel like a playground, not a clinic.
+Inspired by *The Three Little Pigs*, kids collect clay, bake bricks, and build a house through missions that naturally measure and train core ADHD-related cognitive functions—sequential memory, sustained attention, and rule execution—all without feeling like a test.
 
-아기돼지 삼형제의 집짓기 모험을 모티프로, 아이들이 귀여운 돼지 친구들과 함께 재료를 모으고, 벽돌을 굽고, 직접 집을 완성해가는 여정을 설계했습니다. 색깔별 진흙을 순서대로 줍고, 오븐 앞에서 벽돌이 잘 구워지는지 지켜보고, 규칙에 맞게 벽돌을 쌓는 3단계 미션 속에서 아이들은 자연스럽게 순서 기억, 집중 유지, 규칙 실행을 훈련하게 됩니다. 돼지 캐릭터가 음성으로 다정하게 안내하고, 실수하면 "다시 생각해보자!"라며 격려해주고, 미션을 클리어하면 화려한 3D 이펙트와 함께 성취감을 느낄 수 있습니다. 파스텔톤 색상과 둥글둥글한 캐릭터, 동화 속 공간 덕분에 아이들은 검사실이 아닌 놀이터에 온 것처럼 신나게 게임에 빠져들게 됩니다.
+아기돼지 삼형제를 모티프로, 아이들이 진흙을 모으고 벽돌을 구워 집을 짓는 미션들을 통해 순서 기억, 집중 유지, 규칙 실행 등 ADHD 핵심 인지 기능을 자연스럽게 측정하고 훈련합니다.
 
 <div align="center">
+
+| Element | Description |
+|:--|:--|
+| **Art Direction** | Storybook-inspired pastel palette, soft lighting, child-friendly rounded silhouettes<br>동화풍 파스텔 팔레트, 소프트 라이팅, 아동 친화적 라운드 실루엣 |
+| **3D Modeling** | Stylized low-poly pig characters & props in Blender, optimized for XR performance<br>Blender 기반 스타일라이즈드 로우폴리 캐릭터·소품, XR 퍼포먼스 최적화 |
+| **Animation** | Idle/reaction animations with squash & stretch, particle-based 3D VFX on mission clear<br>스쿼시&스트레치 적용 Idle/리액션 애니메이션, 미션 클리어 시 파티클 기반 3D VFX |
+| **UX Design** | Diegetic voice guidance, positive reinforcement on errors, spatial UI with minimap<br>다이제틱 음성 안내, 실수 시 음성 피드백, 미니맵 기반 공간 UI |
+<div align="center">
+
+</div>
 
 <br>
 
