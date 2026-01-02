@@ -10,6 +10,8 @@
 
 ---
 
+<div align="center">
+
 ## 📋 Table of Contents
 
 1. [🎯 Overview](#-overview)
@@ -18,6 +20,8 @@
 4. [📎 Appendix: Implementation Details](#-appendix-implementation-details)
 
 ---
+
+</div>
 
 <div align="center">
   
