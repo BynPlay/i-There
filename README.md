@@ -179,9 +179,9 @@ Collects multi-dimensional behavioral data (gaze, hand movement, head rotation) 
 ### 🏆 XR Device Content Makeathon — 2nd Place
 
 <div align="center">
-  <img src="Images/DemoXR.avif" height="200"/>
-  <img src="Images/DemoXR2.png" height="200"/>
-  <img src="Images/DemoXR3.png" height="200"/>
+  <img src="Images/DemoXR.avif" height="150"/>
+  <img src="Images/DemoXR2.png" height="150"/>
+  <img src="Images/DemoXR3.png" height="150"/>
 
 **November 2024 | Pangyo Metaverse Hub | Live Demo**
 
@@ -205,7 +205,7 @@ XR 디바이스 콘텐츠 메이커톤 본선 발표. 심사위원들이 직접 
 **May 2025 | Yokohama, Japan | International Presentation**
 </div>
 
-Building on i-There's technical foundation, we refined game design through expert interviews with a child development professor, psychiatry resident, and digital healthcare investor. Redesigned around *The Little Prince*—conversing with the Prince, caring for the Rose, and collecting flight fuel form a 3-stage screening sequence, followed by personalized behavioral missions on planets like the King's and Merchant's. The narrative fosters self-efficacy through bonding and self-discovery, while ADHD-optimized visuals (long-wavelength colors, intuitive graphics) reduce cognitive load. Documented as a design proposal and prototype, we competed against Georgia Tech, UCLA, UCL, and Shanghai Jiao Tong—selected as one of **four Finalist teams**.
+Building on i-There's technical foundation, we refined game design through expert interviews with a child development professor, psychiatry resident, and digital healthcare investor. Redesigned around The Little Prince—conversing with the Prince, caring for the Rose, and collecting flight fuel form a 3-stage screening sequence, followed by personalized behavioral missions on planets such as the King's and the Businessman's. The narrative fosters self-efficacy through bonding and self-discovery, while ADHD-optimized visuals (long-wavelength colors, intuitive graphics) reduce cognitive load. Documented as a design proposal and prototype, we competed against Georgia Tech, UCLA, UCL, and Shanghai Jiao Tong—**selected as one of four Finalist teams.**
 
 i-There 기술 기반 위에 아동학 교수, 정신과 전공의, 디지털 헬스케어 투자사 대표 인터뷰를 통해 게임 디자인 개선. '어린 왕자'를 모티프로 재설계—어린 왕자와의 대화, 장미 돌보기, 비행 연료 수집의 3단계 스크리닝 시퀀스와 왕의 행성, 상인의 행성 등 개인화된 행동 발달 미션 구성. 유대와 자기 발견의 서사로 부정적 자아 인식 극복과 자기 효능감 회복을 유도하고, 장파장 색상과 직관적 그래픽으로 ADHD 아동 특화 시각 디자인 구성. 기획안과 디자인 프로토타입으로 정리하여 Georgia Tech, UCLA, UCL, 상하이 교통대학교 등과 경쟁—**최종 4팀 Finalist로 선정**.
 
