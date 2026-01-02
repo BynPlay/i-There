@@ -115,17 +115,14 @@ Inspired by *The Three Little Pigs*, kids collect clay, bake bricks, and build a
 
 <br>
 
-- **Client**
-  - Implemented 3-stage mission scenarios and level design in Unity. Integrated character/environment assets from the design team, voice interaction via Naver Clova API, minimap UI, color-sequence puzzles, brick-stacking logic, Pinch/Grab gesture interactions, and 3D VFX on mission clear.
-  - Unity 엔진 기반 3단계 미션 시나리오 및 레벨 디자인 구현. 디자인팀 캐릭터·배경 시안 적용, Naver Clova API 음성 상호작용, 미니맵 UI, 색상 순서 퍼즐, 벽돌 쌓기 로직, Pinch/Grab 제스처 인터랙션, 미션 클리어 시 3D 이펙트 연출.
+**Client**: Implemented 3-stage mission scenarios and level design in Unity. Integrated character/environment assets from the design team, voice interaction via Naver Clova API, minimap UI, color-sequence puzzles, brick-stacking logic, Pinch/Grab gesture interactions, and 3D VFX on mission clear.    
+Unity 엔진 기반 3단계 미션 시나리오 및 레벨 디자인 구현. 디자인팀 캐릭터·배경 시안 적용, Naver Clova API 음성 상호작용, 미니맵 UI, 색상 순서 퍼즐, 벽돌 쌓기 로직, Pinch/Grab 제스처 인터랙션, 미션 클리어 시 3D 이펙트 연출. 
 
-- **AI**
-  - Converted DSM-5 ADHD diagnostic criteria (18 items) into digital metrics. Trained CNN model on behavioral data for quantitative symptom classification. Exported PyTorch model to ONNX, integrated with Unity Barracuda for on-device real-time inference, dynamically adjusting difficulty based on results.
-  - DSM-5 기반 ADHD 진단 기준 18개 항목 디지털 지표 변환. CNN 모델로 행동 데이터 학습 및 증상 정량 분류. PyTorch → ONNX 변환 후 Unity Barracuda 통합, 온디바이스 실시간 추론 및 난이도 동적 조정.
+**AI**: Converted DSM-5 ADHD diagnostic criteria (18 items) into digital metrics. Trained CNN model on behavioral data for quantitative symptom classification. Exported PyTorch model to ONNX, integrated with Unity Barracuda for on-device real-time inference, dynamically adjusting difficulty based on results.    
+DSM-5 기반 ADHD 진단 기준 18개 항목 디지털 지표 변환. CNN 모델로 행동 데이터 학습 및 증상 정량 분류. PyTorch → ONNX 변환 후 Unity Barracuda 통합, 온디바이스 실시간 추론 및 난이도 동적 조정.
 
-- **Backend**
-  - Preprocessed multi-dimensional behavioral data (gaze, hand movement, head rotation) from hand/eye tracking and IMU sensors. Transmitted via REST API, stored per-user screening results and session logs in MariaDB for symptom profiling and long-term tracking.
-  - 핸드·아이트래킹, IMU 센서 기반 시선·손 움직임·머리 회전 등 다차원 행동 데이터 전처리. REST API 서버 전송, MariaDB에 사용자별 스크리닝 결과 및 세션 기록 저장으로 개인 프로파일 관리 및 장기 추적.
+**Backend**: Preprocessed multi-dimensional behavioral data (gaze, hand movement, head rotation) from hand/eye tracking and IMU sensors. Transmitted via REST API, stored per-user screening results and session logs in MariaDB for symptom profiling and long-term tracking.      
+핸드·아이트래킹, IMU 센서 기반 시선·손 움직임·머리 회전 등 다차원 행동 데이터 전처리. REST API 서버 전송, MariaDB에 사용자별 스크리닝 결과 및 세션 기록 저장으로 개인 프로파일 관리 및 장기 추적.  
 
 <br>
 
