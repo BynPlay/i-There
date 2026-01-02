@@ -2,9 +2,12 @@
 
 # 🐷 i-There
 
+  <img src="Images/Introduce.gif" width="50%" />
+
 > *"Build a house with the Three Little Pigs!" "아기돼지 삼형제와 함께 집을 지어요! 🐷🏠" "*  
 > *While child plays, AI screens for ADHD symptoms. 놀이처럼 즐기는 사이, AI가 ADHD 증상을 살펴봐요.*
 </div>
+
 
 🏠 i-There is an **AR game for children with ADHD**, inspired by The Three Little Pigs. Kids join a cute baby pig character to collect materials, bake bricks, and build a house—enjoying pastel-toned environments, intuitive interactions, and 3D effect rewards without feeling like they're being tested. Meanwhile, AI analyzes the child's gaze, movement, and voice patterns to screen for ADHD symptoms and dynamically adjusts behavioral training content difficulty based on each child's profile.
 
