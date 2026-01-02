@@ -36,14 +36,14 @@
 
 | Position | Role | Name | University & Major |
 |:--|:--|:--|:--|
-| 🎯 Team Leader | PM & Lead Dev | Jaehyun Byun | Kyung Hee Univ. Computer Science |
-| 📋 Planning | Level Designer & Game Planner | Yerim Lee | Ewha Womans Univ. Convergent Contents |
-| 📋 Planning | Business Model Planner | Soonmin Kwon | Konkuk Univ. Media Communication |
-| 💻 Dev | Game Client Developer | Seyoung Park | Hongik Univ. Computer Science |
-| 💻 Dev | AI Model Dev & Medical Specialist | Wookhee Won | Seoul National Univ. Medicine |
-| 🎨 Art | UI/UX Designer | Chowon Jeong | Hongik Univ. Painting |
-| 🎨 Art | 3D Artist | Yeji Park | Hongik Univ. Ceramics & Glass |
-| 🎨 Art | Graphic Designer | Suyeon Lee | Sookmyung Women's Univ. Biological Sciences |
+| 🎯 Team Leader | PM & Lead Dev | Jaehyun Byun | Kyung Hee Univ.<br>Computer Science |
+| 📋 Planning | Level Designer & Game Planner | Yerim Lee | Ewha Womans Univ.<br>Convergent Contents |
+| 📋 Planning | Business Model Planner | Soonmin Kwon | Konkuk Univ.<br>Media Communication |
+| 💻 Dev | Game Client Developer | Seyoung Park | Hongik Univ.<br>Computer Science |
+| 💻 Dev | AI Model Dev & Medical Specialist | Wookhee Won | Seoul National Univ.<br>Medicine |
+| 🎨 Art | UI/UX Designer | Chowon Jeong | Hongik Univ.<br>Painting |
+| 🎨 Art | 3D Artist | Yeji Park | Hongik Univ.<br>Ceramics & Glass |
+| 🎨 Art | Graphic Designer | Suyeon Lee | Sookmyung Women's Univ.<br>Biological Sciences |
 
 </div>
 
