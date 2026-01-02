@@ -161,7 +161,9 @@ DSM-5 기반 ADHD 진단 기준 18개 항목 디지털 지표 변환. CNN 모델
 
 <div align="center">
 <a href="https://www.youtube.com/watch?v=Viuxw1HnCkw">
-  <img src="https://img.youtube.com/vi/Viuxw1HnCkw/0.jpg" height="300"/>
+  <img src="Images/LePetitCarePR.avif" height="200"/>
+  <img src="https://img.youtube.com/vi/Viuxw1HnCkw/0.jpg" height="200"/>
+  <img src="Images/CHIFinal.avif" height="200"/>
 </a>
 </div>
 
