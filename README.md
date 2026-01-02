@@ -73,7 +73,7 @@
 
 ADHD affects about 7.6% of children globally, and early intervention is crucial—yet current diagnoses rely on subjective assessments that can feel burdensome for kids. i-There lets children enjoy an AR adventure building a house with the Three Little Pigs, while AI quietly collects behavioral data to objectively screen for ADHD symptoms.
 
-ADHD는 전 세계 아동의 약 7.6%에게 영향을 미치며, 조기 진단과 개입이 중요합니다. 하지만 현재 진단은 주관적 평가에 의존하고, 아이들은 '정신과 검사'라는 과정에서 심리적 부담을 느끼기 쉽습니다. i-There는 증강 현실의 **아기돼지 삼형제의 집짓기 모험 속에서 아이들이 신나게 놀면서, AI가 자연스럽게 행동 데이터를 수집하고 ADHD 증상을 객관적으로 분석하는 게임 솔루션**입니다.
+ADHD는 전 세계 아동의 약 7.6%에게 영향을 미치며, 조기 진단과 개입이 중요합니다. 하지만 현재 진단은 주관적 평가에 의존하고, 아이들은 '정신과 검사'라는 과정에서 심리적 부담을 느끼기 쉽습니다. i-There는 증강 현실의 아기돼지 삼형제의 집짓기 모험 속에서 아이들이 신나게 놀면서, AI가 자연스럽게 행동 데이터를 수집하고 ADHD 증상을 객관적으로 분석하는 게임 솔루션입니다.
 
 <div align="center">
 
@@ -90,7 +90,7 @@ ADHD는 전 세계 아동의 약 7.6%에게 영향을 미치며, 조기 진단�
 
 Inspired by The Three Little Pigs, kids collect clay, bake bricks, and build a house with adorable pig friends. Each mission—gathering materials in order, watching the oven, stacking bricks by rules—naturally trains sequential memory, sustained attention, and rule execution. Friendly pig characters guide with voice prompts, encourage on mistakes, and celebrate clears with 3D effects. Pastel colors, rounded characters, and a storybook world make it feel like a playground, not a clinic.
 
-**아기돼지 삼형제의 집짓기 모험을 모티프로, 아이들이 귀여운 돼지 친구들과 함께 재료를 모으고, 벽돌을 굽고, 직접 집을 완성해가는 여정을 설계**했습니다. 색깔별 진흙을 순서대로 줍고, 오븐 앞에서 벽돌이 잘 구워지는지 지켜보고, 규칙에 맞게 벽돌을 쌓는 3단계 미션 속에서 아이들은 자연스럽게 순서 기억, 집중 유지, 규칙 실행을 훈련하게 됩니다. 돼지 캐릭터가 음성으로 다정하게 안내하고, 실수하면 "다시 생각해보자!"라며 격려해주고, 미션을 클리어하면 화려한 3D 이펙트와 함께 성취감을 느낄 수 있습니다. **파스텔톤 색상과 둥글둥글한 캐릭터, 동화 속 공간 덕분에 아이들은 검사실이 아닌 놀이터에 온 것처럼 신나게 게임에 빠져들게 됩니다.**
+아기돼지 삼형제의 집짓기 모험을 모티프로, 아이들이 귀여운 돼지 친구들과 함께 재료를 모으고, 벽돌을 굽고, 직접 집을 완성해가는 여정을 설계했습니다. 색깔별 진흙을 순서대로 줍고, 오븐 앞에서 벽돌이 잘 구워지는지 지켜보고, 규칙에 맞게 벽돌을 쌓는 3단계 미션 속에서 아이들은 자연스럽게 순서 기억, 집중 유지, 규칙 실행을 훈련하게 됩니다. 돼지 캐릭터가 음성으로 다정하게 안내하고, 실수하면 "다시 생각해보자!"라며 격려해주고, 미션을 클리어하면 화려한 3D 이펙트와 함께 성취감을 느낄 수 있습니다. 파스텔톤 색상과 둥글둥글한 캐릭터, 동화 속 공간 덕분에 아이들은 검사실이 아닌 놀이터에 온 것처럼 신나게 게임에 빠져들게 됩니다.
 
 <div align="center">
 
