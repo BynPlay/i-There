@@ -177,7 +177,7 @@ i-There의 기술 기반 위에 아동학 교수, 정신과 전공의, 디지털
 
 <br>
 
-[📄 Paper: Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality](https://dl.acm.org/doi/10.1145/3706599.3720300)
+[Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality](https://dl.acm.org/doi/10.1145/3706599.3720300)
 
 
 
