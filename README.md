@@ -108,14 +108,24 @@ Inspired by *The Three Little Pigs*, kids collect clay, bake bricks, and build a
 
 ### Development
 
-  <img src="Images/Background_10.jpg" width="45%"/>
+  <img src="Images/Background11.jpg" width="45%"/>
   <img src="Images/Background_5.jpg" width="45%" />
 
 </div>
 
-- **Client:** Unity 엔진 기반으로 기획서의 3단계 미션 시나리오와 레벨 디자인을 게임플레이로 구현했습니다. 디자인팀의 캐릭터·배경 시안을 적용하고, Naver Clova API를 활용한 음성 상호작용, UI 미니맵, 색상 순서 퍼즐 및 벽돌 쌓기 게임 로직, Pinch/Grab 제스처 인터랙션, 미션 클리어 시 3D 이펙트 연출을 개발했습니다.  
-- **AI**: DSM-5 기반 ADHD 진단 기준 18개 항목을 디지털 지표로 변환하고, 수집된 행동 데이터를 CNN 모델로 학습하여 증상을 정량적으로 분류합니다. PyTorch로 학습한 모델을 ONNX로 변환 후 Unity Barracuda에 통합하여 온디바이스 실시간 추론을 구현했으며, 분석 결과에 따라 훈련 콘텐츠의 난이도를 동적으로 조정합니다.  
-- **Backend**: 핸드트래킹, 아이트래킹, IMU 센서로 수집된 시선, 손 움직임, 머리 회전 등 다차원 행동 데이터를 전처리하고, REST API를 통해 서버로 전송합니다. MariaDB에 사용자별 스크리닝 결과와 세션 기록을 저장하여 개인별 증상 프로파일 관리와 장기 추적이 가능합니다.
+<br>
+
+- **Client**
+  - Implemented 3-stage mission scenarios and level design in Unity. Integrated character/environment assets from the design team, voice interaction via Naver Clova API, minimap UI, color-sequence puzzles, brick-stacking logic, Pinch/Grab gesture interactions, and 3D VFX on mission clear.
+  - Unity 엔진 기반 3단계 미션 시나리오 및 레벨 디자인 구현. 디자인팀 캐릭터·배경 시안 적용, Naver Clova API 음성 상호작용, 미니맵 UI, 색상 순서 퍼즐, 벽돌 쌓기 로직, Pinch/Grab 제스처 인터랙션, 미션 클리어 시 3D 이펙트 연출.
+
+- **AI**
+  - Converted DSM-5 ADHD diagnostic criteria (18 items) into digital metrics. Trained CNN model on behavioral data for quantitative symptom classification. Exported PyTorch model to ONNX, integrated with Unity Barracuda for on-device real-time inference, dynamically adjusting difficulty based on results.
+  - DSM-5 기반 ADHD 진단 기준 18개 항목 디지털 지표 변환. CNN 모델로 행동 데이터 학습 및 증상 정량 분류. PyTorch → ONNX 변환 후 Unity Barracuda 통합, 온디바이스 실시간 추론 및 난이도 동적 조정.
+
+- **Backend**
+  - Preprocessed multi-dimensional behavioral data (gaze, hand movement, head rotation) from hand/eye tracking and IMU sensors. Transmitted via REST API, stored per-user screening results and session logs in MariaDB for symptom profiling and long-term tracking.
+  - 핸드·아이트래킹, IMU 센서 기반 시선·손 움직임·머리 회전 등 다차원 행동 데이터 전처리. REST API 서버 전송, MariaDB에 사용자별 스크리닝 결과 및 세션 기록 저장으로 개인 프로파일 관리 및 장기 추적.
 
 <br>
 
