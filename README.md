@@ -171,9 +171,9 @@ Presented at the XR Device Content Makeathon finals held at Pangyo Metaverse Hub
 
 <br> 
 
-Building on i-There's technical foundation, we validated user needs and market viability through expert interviews with a child development professor, psychiatry resident, and digital healthcare investor. The game was redesigned around The Little Prince—a 3-stage screening sequence (conversing with the Prince, caring for the Rose, collecting flight fuel) followed by personalized behavioral missions on planets like the King's and Merchant's. This concept advanced to **ACM CHI 2025 Student Design Competition finals** as one of four Finalist teams.
+Building on i-There's technical foundation, we validated user needs and market viability through interviews with a child development professor, psychiatry resident, and digital healthcare investor. We redesigned the game framework around The Little Prince's themes of bonding and self-discovery, creating a 3-stage screening sequence—conversations with the Little Prince, rose care, and flight fuel collection—alongside personalized behavioral development missions on the King's Planet and Merchant's Planet. This proposal advanced to the **ACM CHI 2025 Student Design Competition** main round, where we were named one of four **Finalists**.
 
-i-There의 기술 기반 위에 아동학 교수, 정신과 전공의, 디지털 헬스케어 투자사 대표 인터뷰를 통해 사용자 니즈와 시장 타당성을 검증하고, '어린 왕자'의 유대와 자기 발견 서사를 게임 프레임워크로 재설계했습니다. 어린 왕자와의 대화, 장미 돌보기, 비행 연료 수집으로 이어지는 3단계 스크리닝 시퀀스와 왕의 행성, 상인의 행성 등 개인화된 행동 발달 미션을 설계하여 기획안과 디자인 프로토타입으로 정리, **ACM CHI 2025 Student Design Competition** 본선에 진출 후, 최종 4팀인 **Finalist**로 선정되었습니다.  
+i-There의 기술 기반 위에 아동학 교수, 정신과 전공의, 디지털 헬스케어 투자사 대표 인터뷰를 통해 사용자 니즈와 시장 타당성을 검증하고, '어린 왕자'의 유대와 자기 발견 서사, 더욱 심도있는 사용자 중심 디자인을 토대로 게임 프레임워크를 재설계했습니다. 어린 왕자와의 대화, 장미 돌보기, 비행 연료 수집으로 이어지는 3단계 스크리닝 시퀀스와 왕의 행성, 상인의 행성 등 개인화된 행동 발달 미션을 설계하여 기획안과 디자인 프로토타입으로 정리, **ACM CHI 2025 Student Design Competition** 국제 본선에 진출 후, 최종 4팀인 **Finalist**로 선정되었습니다.  
 
 <br>
 
