@@ -41,6 +41,8 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Swit](https://img.shields.io/badge/Swit-3B5998?style=flat-square&logo=swit&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 
+<br>
+
 ### 👥 Team
 
 | Position | Role | Name | University & Major |
@@ -145,17 +147,18 @@ Collects multi-dimensional behavioral data (gaze, hand movement, head rotation) 
 │   XR Device      │    │          Unity Client Engine         │    │   AI Inference   │    │     Backend      │
 │   METALENSE2     │    │                                      │    │                  │    │                  │
 ├──────────────────┤    ├──────────────────────────────────────┤    ├──────────────────┤    ├──────────────────┤
-│ • Gameplay Data  │    │  ┌──────────┐ ┌──────────┐ ┌──────┐  │    │ Barracuda CNN    │    │ REST API Server  │
+│ • Hand Tracking  │    │  ┌──────────┐ ┌──────────┐ ┌──────┐  │    │ Barracuda CNN    │    │ REST API Server  │
 │ • Eye Tracking   │───→│  │Mission 1 │→│Mission 2 │→│ M3   │  │───→│                  │───→│                  │
 │ • IMU Sensor     │    │  │Clay      │ │Bricks    │ │Build │  │    │ DSM-5 18-Item    │    │ MariaDB          │
 │ • Voice Input    │    │  │Collection│ │Baking    │ │House │  │    │ Scoring (0~54)   │    │ User Profiles    │
-│ • Hand Tracking  │    │  └──────────┘ └──────────┘ └──┬───┘  │    │        │         │    │ Session Logs     │
-└──────────────────┘    │                               ↑      │    │        ↓         │    │ Long-term Track  │
-                        │                Adaptive Difficulty   │    └──────────────────┘    └──────────────────┘
+│ • Gameplay Data  │    │  └──────────┘ └──────────┘ └──┬───┘  │    │        │         │    │ Session Logs     │
+│   (Time/Errors)  │    │                               ↑      │    │        ↓         │    │ Long-term Track  │
+└──────────────────┘    │                Adaptive Difficulty   │    └──────────────────┘    └──────────────────┘
                         └──────────────────────────────────────┘
 ```
 
 </div>
+
 ---
 
 ## 🎮 How to Play
@@ -181,11 +184,15 @@ Collects multi-dimensional behavioral data (gaze, hand movement, head rotation) 
   <img src="Images/DemoXR3.png" height="200"/>
 </div>
 
-<br> 
+<br>
 
-Presented at the XR Device Content Makeathon finals held at Pangyo Metaverse Hub in November 2024. During live demonstration where judges played hands-on, the full system—gameplay flow, real-time AI screening, and server integration—ran stable, proving the playable build's completeness. Awarded 2nd place with the N**IPA Director's Award and ₩5M prize.**
+### 🏆 XR Device Content Makeathon — 2nd Place
 
-2024년 11월 판교 메타버스 허브에서 열린 XR 디바이스 콘텐츠 메이커톤 본선 발표. 심사위원들이 직접 플레이한 현장 시연에서 게임 플레이, 실시간 AI 스크리닝, 서버 연동까지 전 시스템이 안정적으로 구동되며 플레이어블 빌드의 완성도를 입증했습니다. 그 결과 최종 2위로 선정되며 **정보통신산업진흥원장상과 상금 500만원을 수상**했습니다.
+**November 2024 | Pangyo Metaverse Hub | Live Demo**
+
+Presented at the XR Device Content Makeathon finals. During live demonstration where judges played hands-on, the full system—gameplay flow, real-time AI screening, and server integration—ran stable, proving the playable build's completeness. Awarded **2nd place with NIPA Director's Award and ₩5M prize**.
+
+XR 디바이스 콘텐츠 메이커톤 본선 발표. 심사위원들이 직접 플레이한 현장 시연에서 게임 플레이, 실시간 AI 스크리닝, 서버 연동까지 전 시스템이 안정적으로 구동되며 플레이어블 빌드의 완성도를 입증했습니다. **정보통신산업진흥원장상과 상금 500만원 수상**.
 
 <br>
 
@@ -197,16 +204,19 @@ Presented at the XR Device Content Makeathon finals held at Pangyo Metaverse Hub
 </a>
 </div>
 
-<br> 
+<br>
 
-Building on i-There's technical foundation, we validated user needs and market viability through expert interviews with a child development professor, psychiatry resident, and digital healthcare investor. The game was redesigned around The Little Prince—a 3-stage screening sequence (conversing with the Prince, caring for the Rose, collecting flight fuel) followed by personalized behavioral missions on planets like the King's and Merchant's. This concept advanced to **ACM CHI 2025 Student Design Competition finals** as one of four Finalist teams.
+### 🌟 ACM CHI 2025 Student Design Competition — Finalist (Top 4)
 
-i-There의 기술 기반 위에 아동학 교수, 정신과 전공의, 디지털 헬스케어 투자사 대표 인터뷰를 통해 사용자 니즈와 시장 타당성을 검증하고, '어린 왕자'의 유대와 자기 발견 서사를 게임 프레임워크로 재설계했습니다. 어린 왕자와의 대화, 장미 돌보기, 비행 연료 수집으로 이어지는 3단계 스크리닝 시퀀스와 왕의 행성, 상인의 행성 등 개인화된 행동 발달 미션을 설계하여 기획안과 디자인 프로토타입으로 정리, **ACM CHI 2025 Student Design Competition** 본선에 진출 후, 최종 4팀인 **Finalist**로 선정되었습니다.  
+**May 2025 | Yokohama, Japan | International Presentation**
+
+Building on i-There's technical foundation, we refined game design through expert interviews with a child development professor, psychiatry resident, and digital healthcare investor. Redesigned around *The Little Prince*—conversing with the Prince, caring for the Rose, and collecting flight fuel form a 3-stage screening sequence, followed by personalized behavioral missions on planets like the King's and Merchant's. The narrative fosters self-efficacy through bonding and self-discovery, while ADHD-optimized visuals (long-wavelength colors, intuitive graphics) reduce cognitive load. Documented as a design proposal and prototype, we competed against Georgia Tech, UCLA, UCL, and Shanghai Jiao Tong—selected as one of **four Finalist teams**.
+
+i-There의 기술 기반 위에 아동학 교수, 정신과 전공의, 디지털 헬스케어 투자사 대표 인터뷰를 통해 게임 디자인을 개선했습니다. '어린 왕자'를 모티프로 재설계—어린 왕자와의 대화, 장미 돌보기, 비행 연료 수집의 3단계 스크리닝 시퀀스와 왕의 행성, 상인의 행성 등 개인화된 행동 발달 미션을 구성했습니다. 유대와 자기 발견의 서사로 부정적 자아 인식 극복과 자기 효능감 회복을 유도하고, 장파장 색상과 직관적 그래픽으로 ADHD 아동 특화 시각 디자인을 개했습니다. 기획안과 디자인 프로토타입으로 정리하여 Georgia Tech, UCLA, UCL, 상하이 교통대학교 등과 경쟁—**최종 4팀 Finalist로 선정**되었습니다.
 
 <br>
 
-[Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality](https://dl.acm.org/doi/10.1145/3706599.3720300)
-
+> 📄 **Publication**: [Le Petit Care: A Child-Attuned Design for Personalized ADHD Symptom Management Through AI-powered Extended Reality](https://dl.acm.org/doi/10.1145/3706599.3720300)
 
 
 
