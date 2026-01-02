@@ -135,4 +135,4 @@ DSM-5 기반 ADHD 진단 기준 18개 항목 디지털 지표 변환. CNN 모델
 | | <img src="Images/Play_1.png" width="100%"/> | <img src="Images/Play_2.png" width="100%"/> | <img src="Images/Play_3.png" width="100%"/> |
 | **Goal** | Collect clay in assigned order<br>정해진 순서대로 진흙 수집 | Stay focused until bricks are baked<br>벽돌이 구워질 때까지 집중 | Stack bricks by color rules<br>색상 규칙에 맞게 벽돌 쌓기 |
 | **Interaction** | Minimap + gesture to collect<br>미니맵 관찰 + 제스처 수집 | Hold oven, maintain gaze<br>오븐 잡고 시선 유지 | Grab gesture to place<br>그랩 제스처로 배치 |
-| **Backend** | Measures working memory & executive function<br>작업 기억 및 실행 기능 측정 | Measures self-regulation & attention<br>자기조절력 및 집중력 측정 | Adjusts behavioral training difficulty<br>행동발달 콘텐츠 난이도 조정 |
+| **Backend** | Measures working memory & executive function<br>작업 기억 및 실행 기능 측정 | Measures self-regulation & attention<br>자기조절력 및 집중력 측정 | Delivers adaptive behavioral training based on AI diagnosis<br>AI 진단 결과 기반 맞춤형 행동발달 훈련 제공|
