@@ -34,15 +34,16 @@
 
 ### 👥 Team
 
-| Position | Role | Name |
-|:--|:--|:--|
-| 🎯 Team Leader | PM & Lead Dev | Jaehyun Byun |
-| 📋 Planning | Level Designer & Game Planner | Yerim Lee |
-| 💻 Dev | Game Client Developer | Seyoung Park |
-| 💻 Dev | AI Model Dev & Medical Specialist | Wookhee Won |
-| 🎨 Art | UI/UX Designer | Chowon Jeong |
-| 🎨 Art | 3D Artist | Yeji Park |
-| 🎨 Art | Graphic Designer | Suyeon Lee |
+| Position | Role | Name | University & Major |
+|:--|:--|:--|:--|
+| 🎯 Team Leader | PM & Lead Dev | Jaehyun Byun | Kyung Hee Univ. Computer Science |
+| 📋 Planning | Level Designer & Game Planner | Yerim Lee | Ewha Womans Univ. Convergent Contents |
+| 📋 Planning | Business Model Planner | Soonmin Kwon | Konkuk Univ. Media Communication |
+| 💻 Dev | Game Client Developer | Seyoung Park | Hongik Univ. Computer Science |
+| 💻 Dev | AI Model Dev & Medical Specialist | Wookhee Won | Seoul National Univ. Medicine |
+| 🎨 Art | UI/UX Designer | Chowon Jeong | Hongik Univ. Painting |
+| 🎨 Art | 3D Artist | Yeji Park | Hongik Univ. Ceramics & Glass |
+| 🎨 Art | Graphic Designer | Suyeon Lee | Sookmyung Women's Univ. Biological Sciences |
 
 </div>
 
