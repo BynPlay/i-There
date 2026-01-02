@@ -24,7 +24,7 @@
 1. [🎯 Overview](#-overview)
 2. [🐷 Game Description](#-game-description)
 3. [🎮 How to Play](#-how-to-play)
-4. [📎 Appendix: Implementation Details](#-appendix-implementation-details)
+4. [🎪 Live Demo & Award](#-live-demo--award)
 
 ---
 
@@ -32,7 +32,7 @@
 
 <div align="center">
   
-## Overview
+## 🎯 Overview
 
 ### 📖 Introduce
 
@@ -57,6 +57,8 @@
 | 🎨 Art | Graphic Designer | Suyeon Lee | Sookmyung Women's Univ.<br>Biological Sciences |
 
 </div>
+
+---
 
 <br>
 
@@ -88,9 +90,9 @@ ADHD는 전 세계 아동의 약 7.6%에게 영향을 미치며, 조기 진단�
   <img src="Images/Background_4.jpg" width="45%" />
 </p>
 
-Inspired by *The Three Little Pigs*, kids collect clay, bake bricks, and build a house through missions that naturally measure and train core ADHD-related cognitive functions—sequential memory, sustained attention, and rule execution—all without feeling like a test.
+Inspired by The Three Little Pigs, kids become the little pig's helper—collecting clay, baking bricks, and stacking colorful walls to build a house. Child-friendly interface, tactile interactions, gentle voice guidance, and cheerful rewards drive engagement, while the game quietly measures and trains core ADHD cognitive functions.
 
-아기돼지 삼형제를 모티프로, 아이들이 진흙을 모으고 벽돌을 구워 집을 짓는 미션들을 통해 순서 기억, 집중 유지, 규칙 실행 등 ADHD 핵심 인지 기능을 자연스럽게 측정하고 훈련합니다.
+아기돼지 삼형제 이야기를 모티프로, 아이들은 아기 돼지의 조력자가 되어 진흙을 모으고, 벽돌을 굽고, 알록달록한 벽을 쌓아 집을 완성합니다. 아동을 위한 쉬운 인터페이스, 실제 사물을 다루는 듯한 인터랙션, 다정한 음성 안내와 신나는 보상이 몰입을 이끌며 게임은 그 사이 ADHD 핵심 인지 기능을 자연스럽게 측정하고 훈련합니다.
 
 <div align="center">
 
@@ -126,6 +128,8 @@ DSM-5 기반 ADHD 진단 기준 18개 항목 디지털 지표 변환. CNN 모델
 
 <br>
 
+---
+
 ## 🎮 How to Play
 
 > ⚠️ This game was developed using [Metacore SDK](https://github.com/PnCSolution/MetacoreSDK) and runs exclusively on **METALENSE2** XR glasses.
@@ -136,3 +140,35 @@ DSM-5 기반 ADHD 진단 기준 18개 항목 디지털 지표 변환. CNN 모델
 | **Goal** | Collect clay in assigned order<br>정해진 순서대로 진흙 수집 | Stay focused until bricks are baked<br>벽돌이 구워질 때까지 집중 | Stack bricks by color rules<br>색상 규칙에 맞게 벽돌 쌓기 |
 | **Interaction** | Minimap + gesture to collect<br>미니맵 관찰 + 제스처 수집 | Hold oven, maintain gaze<br>오븐 잡고 시선 유지 | Grab gesture to place<br>그랩 제스처로 배치 |
 | **Backend** | Measures working memory & executive function<br>작업 기억 및 실행 기능 측정 | Measures self-regulation & attention<br>자기조절력 및 집중력 측정 | Adjusts behavioral training difficulty<br>행동발달 콘텐츠 난이도 조정 |
+
+---
+
+<br>
+
+## 🎪 Live Demo & Award
+
+<div align="center">
+  <img src="Images/DemoXR.avif" height="200"/>
+  <img src="Images/DemoXR2.png" height="200"/>
+  <img src="Images/DemoXR3.png" height="200"/>
+</div>
+
+<br> 
+
+2024년 11월 판교 메타버스 허브에서 열린 XR 디바이스 콘텐츠 메이커톤 본선 발표. 심사위원들이 직접 플레이한 현장 시연에서 게임 플레이 플로우, 실시간 AI 스크리닝, 서버 연동까지 전 시스템이 안정적으로 구동되며 플레이어블 빌드의 완성도를 입증했습니다. 그 결과 최종 2위로 선정되며 정보통신산업진흥원장상과 상금 500만원을 수상했습니다.
+
+<br>
+
+<div align="center">
+<a href="https://www.youtube.com/watch?v=Viuxw1HnCkw">
+  <img src="https://img.youtube.com/vi/Viuxw1HnCkw/0.jpg" height="400"/>
+</a>
+</div>
+
+<br> 
+
+i-There의 기술 기반 위에 아동학 교수, 정신과 전공의, 디지털 헬스케어 투자사 대표 인터뷰를 통해 사용자 니즈와 시장 타당성을 검증하고, '어린 왕자'의 유대와 자기 발견 서사를 게임 프레임워크로 재설계했습니다. 어린 왕자와의 대화, 장미 돌보기, 비행 연료 수집으로 이어지는 3단계 스크리닝 시퀀스와 왕의 행성, 상인의 행성 등 개인화된 행동 발달 미션을 설계하여 기획안과 디자인 프로토타입으로 정리, ACM CHI 2025 Student Design Competition 본선에 진출 후, 최종 4팀인 Finalist로 선정되었습니다.
+
+
+
+
