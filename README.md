@@ -157,7 +157,7 @@ DSM-5 기반 ADHD 진단 기준 18개 항목 디지털 지표 변환. CNN 모델
 
 Presented at the XR Device Content Makeathon finals held at Pangyo Metaverse Hub in November 2024. During live demonstration where judges played hands-on, the full system—gameplay flow, real-time AI screening, and server integration—ran stable, proving the playable build's completeness. Awarded 2nd place with the N**IPA Director's Award and ₩5M prize.**
 
-2024년 11월 판교 메타버스 허브에서 열린 XR 디바이스 콘텐츠 메이커톤 본선 발표. 심사위원들이 직접 플레이한 현장 시연에서 게임 플레이 플로우, 실시간 AI 스크리닝, 서버 연동까지 전 시스템이 안정적으로 구동되며 플레이어블 빌드의 완성도를 입증했습니다. 그 결과 최종 2위로 선정되며 **정보통신산업진흥원장상과 상금 500만원을 수상**했습니다.
+2024년 11월 판교 메타버스 허브에서 열린 XR 디바이스 콘텐츠 메이커톤 본선 발표. 심사위원들이 직접 플레이한 현장 시연에서 게임 플레이, 실시간 AI 스크리닝, 서버 연동까지 전 시스템이 안정적으로 구동되며 플레이어블 빌드의 완성도를 입증했습니다. 그 결과 최종 2위로 선정되며 **정보통신산업진흥원장상과 상금 500만원을 수상**했습니다.
 
 <br>
 
