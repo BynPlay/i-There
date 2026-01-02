@@ -96,6 +96,8 @@ Inspired by The Three Little Pigs, kids become the little pig's helper—collect
 
 <div align="center">
 
+<br>
+
 | Element | Description |
 |:--|:--|
 | **Art Direction** | Storybook-inspired pastel palette, soft lighting, child-friendly rounded silhouettes<br>동화풍 파스텔 팔레트, 소프트 라이팅, 아동 친화적 라운드 실루엣 |
@@ -110,24 +112,52 @@ Inspired by The Three Little Pigs, kids become the little pig's helper—collect
 
 ### Development
 
+<div align="center">
   <img src="Images/Background11.jpg" width="45%"/>
   <img src="Images/Background_5.jpg" width="45%" />
+</div>
+</div>
+<br>
+
+#### 🎮 Client — Unity Application
+
+Implemented 3-stage mission scenarios (collect clay → bake bricks → build house) in Unity. Designed child-friendly UX with Pinch/Grab gesture interactions, minimap-based spatial UI, Naver Clova API voice guidance, and particle-based 3D VFX on mission clear.
+
+3단계 미션 시나리오(진흙 수집 → 벽돌 굽기 → 집 짓기)를 Unity에서 구현했습니다. Pinch/Grab 제스처 인터랙션, 미니맵 기반 공간 UI, Naver Clova API 음성 안내, 미션 클리어 시 파티클 기반 3D VFX까지 아동 친화적 UX를 설계했습니다.
+
+#### 🧠 AI — On-device ADHD Screening
+
+Converted DSM-5 ADHD diagnostic criteria (18 items) into digital behavioral metrics. CNN model learns temporal patterns from behavioral sequences. PyTorch → ONNX conversion enables on-device real-time inference via Unity Barracuda. Inference results (0~54 score) dynamically adjust Mission 3 difficulty.
+
+DSM-5 기반 ADHD 진단 기준 18개 항목을 디지털 행동 지표로 변환했습니다. CNN 모델이 행동 시퀀스에서 시계열 패턴을 학습하고, PyTorch → ONNX 변환 후 Unity Barracuda로 온디바이스 실시간 추론을 수행합니다. 추론 결과(0~54점)에 따라 Mission 3의 난이도가 동적으로 조정됩니다.
+
+> 🔗 **Reference**: [A Novel Approach to Diagnose ADHD Using Virtual Reality](https://link.springer.com/chapter/10.1007/978-3-030-63924-2_15)
+
+#### 🗄️ Backend — Data Pipeline & Storage
+
+Collects multi-dimensional behavioral data (gaze, hand movement, head rotation) from hand/eye tracking and IMU sensors. Memory-efficient processing via Unity Static arrays, followed by normalization and filtering. REST API transmits to server, MariaDB stores per-user screening results and session logs for long-term tracking and model improvement.
+
+핸드/아이 트래킹과 IMU 센서에서 시선, 손 움직임, 머리 회전 등 다차원 행동 데이터를 수집합니다. Unity Static 배열로 메모리 효율적 처리 후 정규화 및 필터링을 거쳐 REST API로 서버에 전송, MariaDB에 사용자별 스크리닝 결과와 세션 로그를 저장하여 장기 추적 및 모델 개선에 활용합니다.
+
+<div align="center">
+
+#### 🔧 System Architecture
+```
+┌──────────────────┐    ┌──────────────────────────────────────┐    ┌──────────────────┐    ┌──────────────────┐
+│   XR Device      │    │          Unity Client Engine         │    │   AI Inference   │    │     Backend      │
+│   METALENSE2     │    │                                      │    │                  │    │                  │
+├──────────────────┤    ├──────────────────────────────────────┤    ├──────────────────┤    ├──────────────────┤
+│ • Hand Tracking  │    │  ┌──────────┐ ┌──────────┐ ┌──────┐  │    │ Barracuda CNN    │    │ REST API Server  │
+│ • Eye Tracking   │───→│  │Mission 1 │→│Mission 2 │→│ M3   │  │───→│                  │───→│                  │
+│ • IMU Sensor     │    │  │Clay      │ │Bricks    │ │Build │  │    │ DSM-5 18-Item    │    │ MariaDB          │
+│ • Voice Input    │    │  │Collection│ │Baking    │ │House │  │    │ Scoring (0~54)   │    │ User Profiles    │
+│ • Gameplay Data  │    │  └──────────┘ └──────────┘ └──┬───┘  │    │        │         │    │ Session Logs     │
+│   (Time/Errors)  │    │                               ↑      │    │        ↓         │    │ Long-term Track  │
+└──────────────────┘    │                Adaptive Difficulty   │    └──────────────────┘    └──────────────────┘
+                        └──────────────────────────────────────┘
+```
 
 </div>
-
-<br>
-
-**Client**: Implemented 3-stage mission scenarios and level design in Unity. Integrated character/environment assets from the design team, voice interaction via Naver Clova API, minimap UI, color-sequence puzzles, brick-stacking logic, Pinch/Grab gesture interactions, and 3D VFX on mission clear.    
-Unity 엔진 기반 3단계 미션 시나리오 및 레벨 디자인 구현. 디자인팀 캐릭터·배경 시안 적용, Naver Clova API 음성 상호작용, 미니맵 UI, 색상 순서 퍼즐, 벽돌 쌓기 로직, Pinch/Grab 제스처 인터랙션, 미션 클리어 시 3D 이펙트 연출. 
-
-**AI**: Converted DSM-5 ADHD diagnostic criteria (18 items) into digital metrics. Trained CNN model on behavioral data for quantitative symptom classification. Exported PyTorch model to ONNX, integrated with Unity Barracuda for on-device real-time inference, dynamically adjusting difficulty based on results.    
-DSM-5 기반 ADHD 진단 기준 18개 항목 디지털 지표 변환. CNN 모델로 행동 데이터 학습 및 증상 정량 분류. PyTorch → ONNX 변환 후 Unity Barracuda 통합, 온디바이스 실시간 추론 및 난이도 동적 조정.
-
-**Backend**: Preprocessed multi-dimensional behavioral data (gaze, hand movement, head rotation) from hand/eye tracking and IMU sensors. Transmitted via REST API, stored per-user screening results and session logs in MariaDB for symptom profiling and long-term tracking.      
-핸드·아이트래킹, IMU 센서 기반 시선·손 움직임·머리 회전 등 다차원 행동 데이터 전처리. REST API 서버 전송, MariaDB에 사용자별 스크리닝 결과 및 세션 기록 저장으로 개인 프로파일 관리 및 장기 추적.  
-
-<br>
-
 ---
 
 ## 🎮 How to Play
