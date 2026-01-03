@@ -8,6 +8,7 @@
 > *While child plays, AI screens for ADHD symptoms. 놀이처럼 즐기는 사이, AI가 ADHD 증상을 살펴봐요.*
 </div>
 
+<br>
 
 🏠 i-There is an **AR game for children with ADHD**, inspired by The Three Little Pigs. Kids team up with an adorable piglet to gather materials, bake bricks, and build a house—all within a pastel-toned world featuring intuitive interactions and 3D effect rewards that make play feel like play, not a test. Behind the scenes, AI analyzes gaze, movement, and voice patterns to screen for ADHD symptoms and dynamically adjusts training difficulty to each child's profile.
 
