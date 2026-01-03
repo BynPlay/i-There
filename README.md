@@ -40,7 +40,7 @@
 **Name**: i-There  
 **Duration**: 2024.07 ~ 2024.12  
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Swit](https://img.shields.io/badge/Swit-3B5998?style=flat-square&logo=swit&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 
 ### 👥 Team
 
@@ -74,7 +74,7 @@
 
 ADHD affects about 7.6% of children globally, and early intervention is crucial—yet current diagnoses rely on subjective assessments that can feel burdensome for kids. i-There lets children enjoy an AR adventure building a house with the Three Little Pigs, while AI quietly collects behavioral data to objectively screen for ADHD symptoms.
 
-ADHD는 전 세계 아동의 약 7.6%에게 영향을 미치며, 조기 진단과 개입이 중요합니다. 하지만 현재 진단은 주관적 평가에 의존하고, 아이들은 '정신과 검사'라는 과정에서 심리적 부담을 느끼기 쉽습니다. i-There는 증강 현실의 아기돼지 삼형제의 집짓기 모험 속에서 아이들이 신나게 놀면서, AI가 자연스럽게 행동 데이터를 수집하고 ADHD 증상을 객관적으로 분석하는 게임 솔루션입니다.
+ADHD는 전 세계 아동의 약 7.6%에게 영향을 미치며, 조기 진단과 개입이 중요합니다. 하지만 현재 진단은 주관적 평가에 의존하고 아이들은 '정신과 검사'라는 과정에서 심리적 부담을 느끼기 쉽습니다. i-There는 증강 현실의 아기돼지 삼형제의 집짓기 모험 속에서 아이들이 신나게 놀면서, AI가 자연스럽게 행동 데이터를 수집하고 ADHD 증상을 객관적으로 분석하는 게임 솔루션입니다.
 
 <div align="center">
 
@@ -128,7 +128,7 @@ Implemented 3-stage mission scenarios (collect clay → bake bricks → build ho
 
 Converted DSM-5 ADHD diagnostic criteria (18 items) into digital behavioral metrics. CNN model learns temporal patterns from behavioral sequences. PyTorch → ONNX conversion enables on-device real-time inference via Unity Barracuda. Inference results (0~54 score) dynamically adjust Mission 3 difficulty.
 
-DSM-5 기반 ADHD 진단 기준 18개 항목을 디지털 행동 지표로 변환했습니다. CNN 모델이 행동 시퀀스에서 시계열 패턴을 학습하고, PyTorch → ONNX 변환 후 Unity Barracuda로 온디바이스 실시간 추론을 수행합니다. 추론 결과(0~54점)에 따라 Mission 3의 난이도가 동적으로 조정됩니다.
+DSM-5 기반 ADHD 진단 기준 18개 항목을 디지털 행동 지표로 변환했습니다. CNN 모델이 행동 시퀀스에서 시계열 패턴을 학습하고, tensorflow → ONNX 변환 후 Unity Barracuda로 온디바이스 실시간 추론을 수행합니다. 추론 결과(0~54점)에 따라 Mission 3의 난이도가 동적으로 조정됩니다.
 
 > 🔗 **Reference**: [A Novel Approach to Diagnose ADHD Using Virtual Reality](https://link.springer.com/chapter/10.1007/978-3-030-63924-2_15)
 
@@ -208,7 +208,7 @@ XR 디바이스 콘텐츠 메이커톤 본선 발표. 심사위원들이 직접 
 
 Built on i-There's tech foundation, refined design via expert interviews (child development professor, psychiatry resident, digital healthcare investor). Redesigned around The Little Prince—3-stage screening (conversing with Prince, caring for Rose, collecting fuel) plus personalized behavioral missions on thematic planets. Narrative drives self-efficacy through bonding and self-discovery; ADHD-optimized visuals reduce cognitive load. Competed as design proposal and prototype against Georgia Tech, UCLA, UCL, Shanghai Jiao Tong—**selected as Finalist (top 4).**  
 
-i-There 기술 기반 위에 아동학 교수, 정신과 전공의, 디지털 헬스케어 투자사 대표 인터뷰를 통해 게임 디자인 개선. '어린 왕자'를 모티프로 재설계—어린 왕자와의 대화, 장미 돌보기, 비행 연료 수집의 3단계 스크리닝 시퀀스와 왕의 행성, 상인의 행성 등 개인화된 행동 발달 미션 구성. 유대와 자기 발견의 서사로 부정적 자아 인식 극복과 자기 효능감 회복을 유도하고, 장파장 색상과 직관적 그래픽으로 ADHD 아동 특화 시각 디자인 구성. 기획안과 디자인 프로토타입으로 정리하여 Georgia Tech, UCLA, UCL, 상하이 교통대학교 등과 경쟁—**최종 4팀 Finalist로 선정**.
+i-There 기술 기반 위에 아동학 교수, 정신과 전공의, 디지털 헬스케어 투자사 대표 인터뷰를 통해 게임 디자인 개선. '어린 왕자'를 모티프로 재설계—어린 왕자와의 대화, 장미 돌보기, 비행 연료 수집의 3단계 스크리닝 시퀀스와 왕의 행성, 상인의 행성 등 개인화된 행동 발달 미션 구성. 유대와 자기 발견의 서사로 부정적 자아 인식 극복과 자기 효능감 회복을 유도하고, 장파장 색상과 직관적 그래픽으로 ADHD 아동 특화 시각 디자인 개선개선. 기획안과 디자인 프로토타입으로 정리하여 Georgia Tech, UCLA, UCL, 상하이 교통대학교 등과 경쟁—i-There 기술 기반 위에 아동학 교.
 
 <br>
 
