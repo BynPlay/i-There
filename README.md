@@ -195,7 +195,7 @@ Collects multi-dimensional behavioral data (gaze, hand movement, head rotation) 
 
 Presented at the XR Device Content Makeathon finals. During live demonstration where judges played hands-on, the full system—gameplay flow, real-time AI screening, and server integration—ran stable, proving the playable build's completeness. Awarded **2nd place with NIPA Director's Award and ₩5M prize**.
 
-XR 디바이스 콘텐츠 메이커톤 본선 발표. 심사위원들이 직접 플레이한 현장 시연에서 게임 플레이, 실시간 AI 스크리닝, 서버 연동까지 전 시스템이 안정적으로 구동되며 플레이어블 빌드의 완성도를 입증했습니다. **정보통신산업진흥원장상과 상금 500만원 수상**.
+과학기술정보통신부 주최 XR 디바이스 콘텐츠 메이커톤 본선 발표. 심사위원들이 직접 플레이한 현장 시연에서 게임 플레이, 실시간 AI 스크리닝, 서버 연동까지 전 시스템이 안정적으로 구동되며 플레이어블 빌드의 완성도를 입증했습니다. **정보통신산업진흥원장상과 상금 500만원 수상**.
 
 <br>
 
