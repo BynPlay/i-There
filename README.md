@@ -212,7 +212,7 @@ XR 디바이스 콘텐츠 메이커톤 본선 발표. 심사위원들이 직접 
 
 Built on i-There's tech foundation, refined design via expert interviews (child development professor, psychiatry resident, digital healthcare investor). Redesigned around The Little Prince—3-stage screening (conversing with Prince, caring for Rose, collecting fuel) plus personalized behavioral missions on thematic planets. Narrative drives self-efficacy through bonding and self-discovery; ADHD-optimized visuals reduce cognitive load. Competed as design proposal and prototype against Georgia Tech, UCLA, UCL, Shanghai Jiao Tong—**selected as Finalist (top 4).**  
 
-i-There 기술 기반 위에 아동학 교수, 정신과 전공의, 디지털 헬스케어 투자사 대표 인터뷰를 통해 게임 디자인 개선. '어린 왕자'를 모티프로 재설계—어린 왕자와의 대화, 장미 돌보기, 비행 연료 수집의 3단계 스크리닝 시퀀스와 왕의 행성, 상인의 행성 등 개인화된 행동 발달 미션 구성. 유대와 자기 발견의 서사로 부정적 자아 인식 극복과 자기 효능감 회복을 유도하고, 장파장 색상과 직관적 그래픽으로 ADHD 아동 특화 시각 디자인 개선개선. 기획안과 디자인 프로토타입으로 정리하여 본선 진출 후 Georgia Tech, UCLA, UCL, 상하이 교통대학교 등과 경쟁, 최종 **Finalist (Top 4)** 선정.
+i-There 기술 기반 위에 아동학 교수, 정신과 전공의, 디지털 헬스케어 투자사 대표 인터뷰를 통해 게임 디자인 개선. '어린 왕자'를 모티프로 재설계—어린 왕자와의 대화, 장미 돌보기, 비행 연료 수집의 3단계 스크리닝 시퀀스와 왕의 행성, 상인의 행성 등 개인화된 행동 발달 미션 구성. 유대와 자기 발견의 서사로 부정적 자아 인식 극복과 자기 효능감 회복을 유도하고, 장파장 색상과 직관적 그래픽으로 ADHD 아동 특화 시각 디자인 개선. 기획안과 디자인 프로토타입으로 정리하여 본선 진출 후 Georgia Tech, UCLA, UCL, 상하이 교통대학교 등과 경쟁, 최종 **Finalist (Top 4)** 선정.
 
 <br>
 
