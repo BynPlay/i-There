@@ -9,7 +9,7 @@
 </div>
 
 
-🏠 i-There is an **AR game for children with ADHD**, inspired by The Three Little Pigs. Kids join a cute baby pig character to collect materials, bake bricks, and build a house—enjoying pastel-toned environments, intuitive interactions, and 3D effect rewards without feeling like they're being tested. Meanwhile, AI analyzes the child's gaze, movement, and voice patterns to screen for ADHD symptoms and dynamically adjusts behavioral training content difficulty based on each child's profile.
+🏠 i-There is an **AR game for children with ADHD**, inspired by The Three Little Pigs. Kids team up with an adorable piglet to gather materials, bake bricks, and build a house—all within a pastel-toned world featuring intuitive interactions and 3D effect rewards that make play feel like play, not a test. Behind the scenes, AI analyzes gaze, movement, and voice patterns to screen for ADHD symptoms and dynamically adjusts training difficulty to each child's profile.
 
 <br>
 
