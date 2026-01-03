@@ -50,11 +50,11 @@
 
 | Position | Role | Name | University & Major |
 |:--|:--|:--|:--|
-| 🎯 Team Leader | PM & Lead Dev | (Jaehyun Byun)[https://github.com/BynPlay] | Kyung Hee Univ.<br>Computer Science |
+| 🎯 Team Leader | PM & Lead Dev | [Jaehyun Byun](https://github.com/BynPlay) | Kyung Hee Univ.<br>Computer Science |
 | 📋 Planning | Level Designer & Game Planner | Yerim Lee | Ewha Womans Univ.<br>Convergent Contents |
 | 📋 Planning | Business Model Planner | Soonmin Kwon | Konkuk Univ.<br>Media Communication |
-| 💻 Dev | Game Client Developer | (Seyoung Park)[https://github.com/30isdead] | Hongik Univ.<br>Computer Science |
-| 💻 Dev | AI Model Dev & Medical Specialist | (Wooky Won)[https://github.com/wonwooky] | Seoul National Univ.<br>Medicine |
+| 💻 Dev | Game Client Developer | [Seyoung Park](https://github.com/30isdead) | Hongik Univ.<br>Computer Science |
+| 💻 Dev | AI Model Dev & Medical Specialist | [Wooky Won](https://github.com/wonwooky) | Seoul National Univ.<br>Medicine |
 | 🎨 Art | UI/UX Designer | Chowon Jung | Hongik Univ.<br>Painting |
 | 🎨 Art | 3D Artist | Yeji Park | Hongik Univ.<br>Ceramics & Glass |
 | 🎨 Art | Graphic Designer | Suyeon Lee | Sookmyung Women's Univ.<br>Biological Sciences |
