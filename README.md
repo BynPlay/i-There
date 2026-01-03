@@ -38,7 +38,7 @@
 ### 📖 Introduce
 
 **Name**: i-There 
-**Genre**: Serious Game 
+**Genre**: Serious Game   
 **Platform**: METALENSE2   
 **Duration**: 2024.07 ~ 2024.12    
 
