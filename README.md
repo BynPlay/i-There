@@ -77,9 +77,9 @@
 
 <br>
 
-ADHD affects about 7.6% of children globally, and early intervention is crucial—yet current diagnoses rely on subjective assessments that can feel burdensome for kids. i-There lets children enjoy an AR adventure building a house with the Three Little Pigs, while AI quietly collects behavioral data to objectively screen for ADHD symptoms.
+ADHD affects about 7.6% of children worldwide, making early detection and intervention essential. However, current diagnoses rely heavily on subjective assessments, which can feel stressful and burdensome for children. i-There transforms ADHD screening into an engaging AR adventure inspired by The Three Little Pigs, where children build houses while playing. As they play, AI seamlessly collects behavioral data to objectively screen for ADHD symptoms and deliver personalized behavioral development content.
 
-ADHD는 전 세계 아동의 약 7.6%에게 영향을 미치며, 조기 진단과 개입이 중요합니다. 하지만 현재 진단은 주관적 평가에 의존하고 아이들은 '정신과 검사'라는 과정에서 심리적 부담을 느끼기 쉽습니다. i-There는 증강 현실의 아기돼지 삼형제의 집짓기 모험 속에서 아이들이 신나게 놀면서, AI가 자연스럽게 행동 데이터를 수집하고 ADHD 증상을 객관적으로 분석하는 게임 솔루션입니다.
+ADHD는 전 세계 아동의 약 7.6%에게 영향을 미치며, 조기 진단과 개입이 중요합니다. 하지만 현재 진단은 주관적 평가에 의존하고 아이들은 '정신과 검사'라는 과정에서 심리적 부담을 느끼기 쉽습니다. i-There는 증강 현실의 아기돼지 삼형제의 집짓기 모험 속에서 아이들이 신나게 놀면서, AI가 자연스럽게 행동 데이터를 수집해 ADHD 증상을 객관적으로 분석하고 맞춤형 행동 발달 콘텐츠를 제공하는 게임 솔루션입니다.
 
 <div align="center">
 
