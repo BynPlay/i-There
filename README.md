@@ -38,7 +38,6 @@
 ### 📖 Introduce
 
 **Name**: i-There   
-**Genre**: Serious Game   
 **Platform**: METALENSE2   
 **Duration**: 2024.07 ~ 2024.12    
 
@@ -51,10 +50,10 @@
 
 | Position | Role | Name | University & Major |
 |:--|:--|:--|:--|
-| 🎯 Team Leader | PM & Lead Dev | [Jaehyun Byun](https://github.com/BynPlay) | Kyung Hee Univ.<br>Computer Science |
+| 🎯 Team Leader | Lead Dev & PM  | [Jaehyun Byun](https://github.com/BynPlay) | Kyung Hee Univ.<br>Computer Science |
 | 📋 Planning | Level Designer & Game Planner | Yerim Lee | Ewha Womans Univ.<br>Convergent Contents |
 | 📋 Planning | Business Model Planner | Soonmin Kwon | Konkuk Univ.<br>Media Communication |
-| 💻 Dev | Game Client Developer | [Seyoung Park](https://github.com/30isdead) | Hongik Univ.<br>Computer Science |
+| 💻 Dev | Client Developer | [Seyoung Park](https://github.com/30isdead) | Hongik Univ.<br>Computer Science |
 | 💻 Dev | AI Model Dev & Medical Specialist | [Wooky Won](https://github.com/wonwooky) | Seoul National Univ.<br>Medicine |
 | 🎨 Art | UI/UX Designer | Chowon Jung | Hongik Univ.<br>Painting |
 | 🎨 Art | 3D Artist | Yeji Park | Hongik Univ.<br>Ceramics & Glass |
@@ -105,7 +104,7 @@ Inspired by The Three Little Pigs, kids become the little pig's helper—collect
 | Element | Description |
 |:--|:--|
 | **Art Direction** | Storybook-inspired pastel palette, soft lighting, child-friendly rounded silhouettes<br>동화풍 파스텔 팔레트, 소프트 라이팅, 아동 친화적 라운드 실루엣 |
-| **3D Modeling** | Stylized low-poly pig characters & props in Blender, optimized for XR performance<br>Blender 기반 스타일라이즈드 로우폴리 캐릭터·소품, XR 퍼포먼스 최적화 |
+| **3D Modeling** | Stylized low-poly pig characters & props in Blender, optimized for XR performance<br>Blender 기반 스타일라이즈드 로우폴리 캐릭터·소품, 디바이스 퍼포먼스 최적화 |
 | **Animation** | Idle/reaction animations with squash & stretch, particle-based 3D VFX on mission clear<br>스쿼시&스트레치 적용 Idle/리액션 애니메이션, 미션 클리어 시 파티클 기반 3D VFX |
 | **UX Design** | Diegetic voice guidance, positive reinforcement on errors, spatial UI with minimap<br>다이제틱 음성 안내, 실수 시 음성 피드백, 미니맵 기반 공간 UI |
 <div align="center">
